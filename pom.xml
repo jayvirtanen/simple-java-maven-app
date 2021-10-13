@@ -14,6 +14,21 @@
       <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>io.fabric8.devops.apps</groupId>
+      <artifactId>artifactory</artifactId>
+      <version>2.2.335</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jfrog.artifactory.client</groupId>
+      <artifactId>artifactory-java-client-services</artifactId>
+      <version>2.9.2</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jfrog.buildinfo</groupId>
+      <artifactId>build-info-vcs</artifactId>
+      <version>2.31.1</version>
+    </dependency>
   </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
