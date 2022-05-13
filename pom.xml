@@ -20,6 +20,13 @@
       <version>2.2.335</version>
     </dependency>
     <dependency>
+      <groupId>io.opentelemetry</groupId>
+      <artifactId>opentelemetry-bom</artifactId>
+      <version>1.14.0</version>
+      <type>pom</type>
+      <scope>import</scope>
+    </dependency>
+    <dependency>
       <groupId>org.jfrog.artifactory.client</groupId>
       <artifactId>artifactory-java-client-services</artifactId>
       <version>2.9.2</version>
