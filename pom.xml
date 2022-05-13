@@ -24,7 +24,6 @@
       <artifactId>opentelemetry-bom</artifactId>
       <version>1.14.0</version>
       <type>pom</type>
-      <scope>import</scope>
     </dependency>
     <dependency>
       <groupId>org.jfrog.artifactory.client</groupId>
